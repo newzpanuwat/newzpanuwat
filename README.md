@@ -12,14 +12,16 @@ production and delivery of products and services. My experience with 7 years as 
  - <a href="https://a.co/d/gKpSgUa">Grokking algorithms - Aditya Y. Bhavaga</a>
  - <a href="https://a.co/d/gKpSgUa">Cracking the code interview - Gayle Laakmann McDowell, 6th Edition</a>
  - <a href="https://a.co/d/288p7W5">System Design Interview, Alex Xu</a>
+ - <a href="https://a.co/d/fHbVXQM">Coding Interview Patterns, Alex Xu</a>
 
-### Social/Blog
+### Developer/Blog
+<a href="https://www.hackerrank.com/profile/panuwat_brd" target="_blank">![Hackkerrank](https://img.shields.io/badge/Hackerrank-3DA564?style=for-the-badge&logo=Hackkerrank)
 <a href="https://medium.com/@ppnwt" rel="nofollow" target="_blank">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
-<a href="https://linkedin.com/in/ppnwt" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
+<!-- <a href="https://linkedin.com/in/ppnwt" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 ### Developer/Forums
-<!-- <a href="https://www.leetcode.com/xpanu" target="_blank">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a> -->
-<a href="https://www.hackerrank.com/profile/panuwat_brd" target="_blank">![Hackkerrank](https://img.shields.io/badge/Hackerrank-3DA564?style=for-the-badge&logo=Hackkerrank)
+<a href="https://www.leetcode.com/xpanu" target="_blank">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a> -->
 
 
 
